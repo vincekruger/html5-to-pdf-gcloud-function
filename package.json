@@ -1,0 +1,10 @@
+{
+  "author": "Vince Kruger",
+  "homepage": "http://github.com/vincekruger",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "chrome-aws-lambda": "^3.1.1",
+    "html5-to-pdf": "^3.2.0"
+  }
+}

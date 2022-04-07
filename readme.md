@@ -9,7 +9,7 @@ Clone the repository and run to setup your cloud function.
 ```
 gcloud beta functions deploy generatePdf \
     --trigger-http \
-    --runtime nodejs10 \
+    --runtime nodejs14 \
     --memory 1024MB \
     --region europe-west1
 ```

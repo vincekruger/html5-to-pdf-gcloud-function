@@ -11,7 +11,8 @@ gcloud beta functions deploy generatePdf \
     --trigger-http \
     --runtime nodejs14 \
     --memory 1024MB \
-    --region europe-west1
+    --region us-west1 \
+    --project {projectid}
 ```
 
 ## Usage
